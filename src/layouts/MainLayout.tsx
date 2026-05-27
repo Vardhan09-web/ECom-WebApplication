@@ -11,7 +11,7 @@ export const MainLayout = () => {
       </main>
       <footer className="bg-white border-t py-12">
         <div className="mx-auto max-w-7xl px-4 text-center text-gray-500">
-          <p>&copy; 2026 Lumina E-Commerce. All rights reserved.</p>
+          <p>&copy; 2026 V-Mart E-Commerce. All rights reserved.</p>
         </div>
       </footer>
       <Toaster position="bottom-right" />

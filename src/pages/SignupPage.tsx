@@ -29,7 +29,7 @@ export const SignupPage = () => {
         <div className="text-center">
           <Link to="/" className="inline-flex items-center space-x-2 text-3xl font-extrabold text-blue-600 mb-6">
             <Package className="h-10 w-10" />
-            <span>Lumina</span>
+            <span>V-Mart</span>
           </Link>
           <h2 className="text-3xl font-bold text-gray-900">Create Account</h2>
           <p className="mt-2 text-sm text-gray-600">Join our community today</p>
