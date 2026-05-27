@@ -91,8 +91,8 @@ src/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone ecom-webapplication
-cd ecom-webapplication
+git clone https://github.com/Vardhan09-web/ECom-WebApplication.git
+cd ECom-WebApplication
 ```
 
 ---
