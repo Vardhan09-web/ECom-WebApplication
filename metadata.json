@@ -1,0 +1,6 @@
+{
+  "name": "Lumina E-Commerce",
+  "description": "A complete, modern e-commerce platform with product CRUD, cart management, JWT authentication, and coupon systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
