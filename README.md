@@ -209,14 +209,11 @@ Used AI assistance to:
 
 # 📸 Screenshots
 
-Add screenshots here.
+## 🏠 Home Page
+![Home Page](./src/images/HomePage.png)
 
-Example:
-
-```md
-![Home Page](./screenshots/home.png)
-![Cart Page](./screenshots/cart.png)
-```
+## 🛒 Add To Cart Page
+![Add Cart Page](./src/images/CartPage.png)
 
 ---
 
